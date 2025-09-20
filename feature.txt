@@ -1,0 +1,7 @@
+Tính năng mới: Ghi chú học tập hàng ngày.  
+1. Người dùng có thể thêm ghi chú cho từng ngày trong tuần.  
+2. Ghi chú sẽ được lưu lại trong file riêng hoặc database.  
+3. Cho phép chỉnh sửa và xóa ghi chú đã tạo.  
+4. Hỗ trợ tìm kiếm ghi chú theo ngày hoặc từ khóa.  
+5. Mục tiêu: giúp theo dõi tiến độ học tập chi tiết và hiệu quả hơn.  
+
