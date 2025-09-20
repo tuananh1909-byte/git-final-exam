@@ -1,1 +1,19 @@
+<<<<<<< HEAD
 Xin chào tôi là Lê Quang Tuấn Anh
+=======
+Hello, this is Lê Quang Tuấn Anh
+Tôi sống ở Hà Nội và rất yêu thích công nghệ.
+Mục tiêu của tôi là trở thành một lập trình viên Fullstack.
+Tôi thích tìm tòi nghiên cứu về bảo mật hệ thống thông tin.
+Ngoài ra, tôi luôn muốn cải thiện kỹ năng mềm của bản thân.
+
+Sở thích:
+- Nghe nhạc
+- Chơi thể thao
+- Du lịch
+
+Kỹ năng:
+- Lập trình Python
+- Git/GitHub
+- Thiết kế CSDL
+>>>>>>> bad238ff0ace7bc512d6868d1736798ba11f4008
