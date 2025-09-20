@@ -1,15 +1,1 @@
-Xin chào, tôi là Tuấn Anh, sinh viên năm 3 ngành CNTT.
-Tôi sống ở Hà Nội và rất yêu thích công nghệ.
-Mục tiêu của tôi là trở thành một lập trình viên Fullstack.
-Tôi thích tìm tòi nghiên cứu về bảo mật hệ thống thông tin.
-Ngoài ra, tôi luôn muốn cải thiện kỹ năng mềm của bản thân.
-
-Sở thích:
-- Nghe nhạc
-- Chơi thể thao
-- Du lịch
-
-Kỹ năng:
-- Lập trình Python
-- Git/GitHub
-- Thiết kế CSDL
+Xin chào tôi là Lê Quang Tuấn Anh

@@ -1,5 +1,3 @@
 Git là công cụ quản lý phiên bản mạnh mẽ.
 Git giúp làm việc nhóm dễ dàng hơn.
 Mình đang học Git để quản lý project.
-Reset là quay lại trạng thái trước.
-Revert là tạo commit đảo ngược thay đổi.
