@@ -1,4 +1,4 @@
-Xin chào, tôi là Tuấn Anh, sinh viên năm 3 ngành CNTT.
+Hello, this is Lê Quang Tuấn Anh
 Tôi sống ở Hà Nội và rất yêu thích công nghệ.
 Mục tiêu của tôi là trở thành một lập trình viên Fullstack.
 Tôi thích tìm tòi nghiên cứu về bảo mật hệ thống thông tin.
